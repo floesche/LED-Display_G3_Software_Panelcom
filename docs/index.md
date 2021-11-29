@@ -21,7 +21,7 @@ The package uses the Python setuptools, you can build it by calling
 python setup.py install
 ```
 
-which installs the package on your system. See the "Installing Python Modules" manual inside your Python documentation or at <http://docs.python.org/inst/inst.html> if you want to customize the build process or the target location.
+which installs the package on your system. See the "Installing Python Modules" manual inside your Python documentation or at <https://docs.python.org/3/installing/index.html> if you want to customize the build process or the target location.
 
 ## Examples
 
