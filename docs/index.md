@@ -1,6 +1,7 @@
 ---
 title: Tool panel_com
 parent: Generation 3
+nav_order: 5
 ---
 
 # panel_com
